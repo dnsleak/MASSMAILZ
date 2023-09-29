@@ -1,9 +1,11 @@
 # MASSMAILZ
 Mass Email Tool SPECIFICALLY FOR MALWARE!
 
+#LINK: https://giganet.works/tools/mailspam/mailspammer.exe
 
 
-#feature
+
+feature
  - Asynchronous
  - Delay in per email
  - Letter preview
